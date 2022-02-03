@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.versify">
+    <uses-permission android:name="android.permission.INTERNET" />
    <application
         android:label="Versify"
         android:icon="@mipmap/ic_launcher">
